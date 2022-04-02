@@ -1,7 +1,8 @@
+------------------------------------------
 Project 1.1 - Phase 3
 Date - 16 january 2022
 Authors -  Pie de Boer, Emre Karabulut, Agata Oskroba, Liutauras Padimanskas, Samantha Cijntje, Liwia Padowska and Jadon Smith
-
+------------------------------------------
 Overview:
 In this repository you will find the code for Project 1.1 - Phase 3 of group 25.  
 Besides that, the file for the presentation can be found here.
