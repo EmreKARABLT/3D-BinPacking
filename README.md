@@ -69,5 +69,3 @@ After the frame "Knapsack" pops up:
 -> Furthermore, you can clear the truck to see other solutions for other inputs.
 -> To specify which layers should be displayed use the slider.
 -> For the controls, look at the control section in the bottom-right corner.
-
-Extract the provided 25-FinalCode.zip. Follow the instructions listed above.
